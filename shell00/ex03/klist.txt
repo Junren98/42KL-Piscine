@@ -1,0 +1,4 @@
+Credentials cache: API:0BEE48D5-93F0-4E56-8593-1EEA879D9B55
+        Principal: tjun-ren@42KL.EDU.MYn.
+  Issued Expires Principal
+Jul 26 23:26:27 2021  Jul 27 09:26:24 2021  krbtgt/42KL.EDU.MY@42KL.EDU.MY
